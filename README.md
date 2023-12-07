@@ -11,7 +11,7 @@
 
 
 ## About
-Implemented a real-time metadata streaming solution using PostgreSQL, enabling Atlan to capture and store near-instantaneous updates to metadata from various sources.
+Implemented a real-time metadata streaming solution using PostgreSQL, enabling capturing and store near-instantaneous updates to metadata from various sources.
 
 
 ## Features
