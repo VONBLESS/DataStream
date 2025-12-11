@@ -1,4 +1,4 @@
-# Streeam-Capture-Backend
+# Stream-Capture-Backend
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
