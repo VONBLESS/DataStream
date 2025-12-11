@@ -1,4 +1,4 @@
-# Atlan-Backend
+# Streeam-Capture-Backend
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
