@@ -864,24 +864,3 @@ CMD service dbus start ; /usr/lib/systemd/systemd-logind & service lightdm start
 7. **Docker Documentation:**
    - [Docker Documentation](https://docs.docker.com/): Official documentation for Docker, a platform for developing, shipping, and running applications in containers.
 
-
-# Special Thanks
-
-I wish to extend my heartfelt gratitude to Atlan for providing me with an invaluable opportunity to work on this assignment. This experience has significantly contributed to my growth, broadening my horizons and enhancing my knowledge and skills.
-
-## About the Assignment
-
-The assignment presented me with the challenge of mastering the email editor. Throughout this journey, I have not only gained profound insights but have also acquired hands-on experience that will undoubtedly leave a lasting impact on my future endeavors.
-
-## Key Takeaways
-
-I am appreciative of the wealth of knowledge and expertise I have acquired during this assignment. Some of the pivotal takeaways include:
-
--**Real-Time Efficiency:** Implemented Apache Kafka for capturing metadata changes in real-time, ensuring near-instantaneous updates and efficient processing.
--**Flexible, Secure, and Cost-Effective:** Leveraged Docker, Kubernetes, and serverless computing for flexible deployment, implemented security measures, and optimized infrastructure costs, ensuring scalability and efficiency.
-
-## Conclusion
-
-This assignment has been an enriching journey, and I am enthusiastic about applying the knowledge and skills I have gained to propel my career forward. I extend my sincere thanks to Atlan for this remarkable opportunity and eagerly anticipate our continued collaboration.
-
-I wish to express my gratitude to the entire Atlan team for entrusting me with this assignment.
