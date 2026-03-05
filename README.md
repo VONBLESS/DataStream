@@ -864,3 +864,20 @@ CMD service dbus start ; /usr/lib/systemd/systemd-logind & service lightdm start
 7. **Docker Documentation:**
    - [Docker Documentation](https://docs.docker.com/): Official documentation for Docker, a platform for developing, shipping, and running applications in containers.
 
+## Overview
+Data streaming capturing bradcastiong and api requests for data access
+
+## Tech Stack
+- Python
+- Docker
+
+## Quick Start
+```bash
+pip install -r requirements.txt
+```
+
+## Project Structure
+- `templates/`
+
+## Contributing
+Contributions are welcome. Open an issue or submit a pull request.
