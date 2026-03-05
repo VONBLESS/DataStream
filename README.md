@@ -1,3 +1,41 @@
+# DataStream
+
+Data streaming capturing bradcastiong and api requests for data access
+
+## Overview
+This repository contains the implementation, configuration, and supporting assets for this project.
+
+## Features
+- Authentication & user access control
+- API endpoints and service layer
+- Dashboard/admin views
+- Containerized runtime support
+
+## Tech Stack
+- Python
+- Docker
+- FastAPI
+- Flask
+
+## Project Structure
+- `templates/`
+
+## Quick Start
+```bash
+pip install -r requirements.txt
+docker build -t app .
+```
+
+## Contributing
+Contributions are welcome. Please open an issue for major changes before submitting a PR.
+
+## License
+Add your project license details here.
+
+---
+
+## Legacy Notes
+
 # Stream-Capture-Backend
 ## Table of Contents
 - [About](#about)
